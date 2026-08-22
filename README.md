@@ -2,71 +2,59 @@
 
 # Soumay Dhrub
 
-### Software Engineer • Full Stack Developer • Problem Solver
+### Software Engineer | Full Stack Developer
 
-Building scalable web applications, exploring AI-powered solutions, and continuously improving through Data Structures & Algorithms.
+B.Tech Computer Science & Engineering • ICFAI University, Jaipur
 
-<br>
-
-[Portfolio](https://soumaydhrub.vercel.app) •
-[LinkedIn](https://www.linkedin.com/in/soumay-dhrub) •
-[Email](mailto:soumaydhruv@gmail.com)
+[Portfolio](https://soumaydhrub.vercel.app) • [LinkedIn](https://www.linkedin.com/in/soumay-dhrub) • [Email](mailto:soumaydhruv@gmail.com)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a Computer Science undergraduate at **ICFAI University, Jaipur** with a passion for building software that is clean, scalable, and user-focused.
+Computer Science undergraduate with hands-on industry experience in building and improving production web applications.
 
-My interests span full-stack development, backend engineering, distributed systems, and AI-powered applications. I enjoy solving algorithmic problems, learning new technologies, and turning ideas into real-world products.
+Previously worked as a **Software Engineer Intern at Storewise India**, contributing to B2B web applications, authentication and onboarding flows, REST API integrations, catalog management workflows, and reusable frontend components.
 
-Currently preparing for software engineering roles while building projects that strengthen both my development and problem-solving skills.
+My primary interests are **Software Engineering, Backend Development, and Full Stack Development**, with a focus on building scalable and maintainable applications.
 
----
-
-## What I'm Working On
-
-- Building production-ready full-stack applications
-- Solving Data Structures & Algorithms consistently
-- Learning System Design and backend architecture
-- Exploring AI/ML and Large Language Models
-- Improving software design and code quality
+Currently seeking **Software Engineer / Full Stack Developer opportunities**.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages
+**Languages:** C++, Java, Python, JavaScript, TypeScript
 
-`C++` • `Java` • `Python` • `JavaScript` • `TypeScript`
+**Frontend:** React.js, Next.js, Redux, Tailwind CSS, HTML, CSS
 
-### Frontend
+**Backend:** Spring Boot, Spring Security, Node.js, Express.js, REST APIs, JWT
 
-`React` • `Next.js` • `Tailwind CSS` • `HTML` • `CSS`
+**Databases:** PostgreSQL, MySQL, MongoDB
 
-### Backend
+**Tools:** Git, GitHub, Docker, Postman
 
-`Node.js` • `Express.js` • `REST APIs`
-
-### Database
-
-`MongoDB` • `MySQL`
-
-### Tools
-
-`Git` • `GitHub` • `Postman` • `VS Code` • `Firebase`
+**Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems
 
 ---
 
-## Philosophy
+## Experience
 
-> *Write code that is simple to understand, easy to maintain, and enjoyable to build upon.*
+### Software Engineer Intern | Storewise India
+
+**May 2025 – Jan 2026**
+
+* Developed and enhanced production web features using React, Next.js, TypeScript, Redux, and Tailwind CSS.
+* Integrated REST APIs and handled asynchronous application workflows and error states.
+* Contributed to authentication, onboarding, and B2B catalog management workflows.
+* Built reusable and responsive components for production applications.
+* Collaborated with engineering and design teams to debug issues and deliver product improvements.
 
 ---
 
-## Connect
 
-- **LinkedIn** — https://www.linkedin.com/in/soumay-dhrub
-- **Email** — soumaydhruv@gmail.com
+
+
+</div>
