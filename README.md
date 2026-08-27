@@ -6,7 +6,7 @@
 
 B.Tech Computer Science & Engineering • ICFAI University, Jaipur
 
-[Portfolio](https://soumaydhrub.vercel.app) • [LinkedIn](https://www.linkedin.com/in/soumay-dhrub) • [Email](mailto:soumaydhruv@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/soumay-dhrub) • [Email](mailto:soumaydhruv@gmail.com)
 
 </div>
 
